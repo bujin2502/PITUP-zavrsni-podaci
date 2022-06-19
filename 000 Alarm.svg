@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="961.3848266601562"
+   height="767.204345703125"
+   viewBox="-629.967041015625 -359.83929443359375 961.3848266601562 767.204345703125"
+   version="1.1"
+   id="svg282"
+   sodipodi:docname="Alarm.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs286" />
+  <sodipodi:namedview
+     id="namedview284"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.242943"
+     inkscape:cx="557.36409"
+     inkscape:cy="102.99287"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g278" />
+  <title
+     id="title2">Neo4j Graph Visualization</title>
+  <desc
+     id="desc4">Created using Neo4j (http://www.neo4j.com/)</desc>
+  <g
+     class="layer relationships"
+     id="g168">
+    <g
+       class="relationship"
+       transform="translate(36.20276880179049 -227.05592574150708) rotate(218.8180760286166)"
+       id="g10">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 38.72115310886231 0.5 L 38.72115310886231 -0.5 L 25 -0.5 Z M 119.84224685886231 0.5 L 133.56339996772462 0.5 L 133.56339996772462 3.5 L 140.56339996772462 0 L 133.56339996772462 -3.5 L 133.56339996772462 -0.5 L 119.84224685886231 -0.5 Z"
+         id="path6" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="79.28169998386231"
+         y="3"
+         transform="rotate(180 79.28169998386231 0)"
+         font-family="sans-serif"
+         id="text8">ZDR_EVIDENTIRAO</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(47.819759576069806 -64.44071793715383) rotate(217.90468549966454)"
+       id="g16">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 43.82343613898742 0.5 L 43.82343613898742 -0.5 L 25 -0.5 Z M 127.16718613898742 0.5 L 145.99062227797484 0.5 L 145.99062227797484 3.5 L 152.99062227797484 0 L 145.99062227797484 -3.5 L 145.99062227797484 -0.5 L 127.16718613898742 -0.5 Z"
+         id="path12" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="85.49531113898742"
+         y="3"
+         transform="rotate(180 85.49531113898742 0)"
+         font-family="sans-serif"
+         id="text14">UCIT_EVIDENTIRAO</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-73.08278051072449 378.3650058165815) rotate(219.1063400866019)"
+       id="g22">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 61.07828323789141 0.5 L 61.07828323789141 -0.5 L 25 -0.5 Z M 117.31656448789141 0.5 L 153.39484772578282 0.5 L 153.39484772578282 3.5 L 160.39484772578282 0 L 153.39484772578282 -3.5 L 153.39484772578282 -0.5 L 117.31656448789141 -0.5 Z"
+         id="path18" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="89.19742386289141"
+         y="3"
+         transform="rotate(180 89.19742386289141 0)"
+         font-family="sans-serif"
+         id="text20">ZAPOSLENIK</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(36.20276880179049 -227.05592574150708) rotate(539.4306308048946)"
+       id="g28">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 99.3040020976957 0.5 L 99.3040020976957 -0.5 L 25 -0.5 Z M 144.4211895976957 0.5 L 218.7251916953914 0.5 L 218.7251916953914 3.5 L 225.7251916953914 0 L 218.7251916953914 -3.5 L 218.7251916953914 -0.5 L 144.4211895976957 -0.5 Z"
+         id="path24" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="121.8625958476957"
+         y="3"
+         transform="rotate(180 121.8625958476957 0)"
+         font-family="sans-serif"
+         id="text26">U_KRUGU</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-219.4905094993658 -67.08277627982847) rotate(522.4240001313364)"
+       id="g34">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 80.29777092111468 0.5 L 80.29777092111468 -0.5 L 25 -0.5 Z M 160.09855217111468 0.5 L 215.39632309222935 0.5 L 215.39632309222935 3.5 L 222.39632309222935 0 L 215.39632309222935 -3.5 L 215.39632309222935 -0.5 L 160.09855217111468 -0.5 Z"
+         id="path30" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="120.19816154611468"
+         y="3"
+         transform="rotate(180 120.19816154611468 0)"
+         font-family="sans-serif"
+         id="text32">SKOL_SMJESTENA</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(485.48563881368057)"
+       id="g40">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 120.425134271724 0.5 L 120.425134271724 -0.5 L 25 -0.5 Z M 188.663415521724 0.5 L 284.088549793448 0.5 L 284.088549793448 3.5 L 291.088549793448 0 L 284.088549793448 -3.5 L 284.088549793448 -0.5 L 188.663415521724 -0.5 Z"
+         id="path36" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="154.544274896724"
+         y="3"
+         transform="rotate(180 154.544274896724 0)"
+         font-family="sans-serif"
+         id="text38">IMA_SOC_POTP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(201.32236170373506)"
+       id="g46">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 43.784809455843785 0.5 L 43.784809455843785 -0.5 L 25 -0.5 Z M 150.2613719558438 0.5 L 169.04618141168757 0.5 L 169.04618141168757 3.5 L 176.04618141168757 0 L 169.04618141168757 -3.5 L 169.04618141168757 -0.5 L 150.2613719558438 -0.5 Z"
+         id="path42" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="97.02309070584379"
+         y="3"
+         transform="rotate(180 97.02309070584379 0)"
+         font-family="sans-serif"
+         id="text44">IMA_NEPRIL_PONASANJE</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(180.0862219710288)"
+       id="g52">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 323.60610449504003 0.5 L 323.60610449504003 -0.5 L 25 -0.5 Z M 359.83657324504003 0.5 L 658.4426777400801 0.5 L 658.4426777400801 3.5 L 665.4426777400801 0 L 658.4426777400801 -3.5 L 658.4426777400801 -0.5 L 359.83657324504003 -0.5 Z"
+         id="path48" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="341.72133887004003"
+         y="3"
+         transform="rotate(180 341.72133887004003 0)"
+         font-family="sans-serif"
+         id="text50">ZIVI_NA</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(51.61515727029437 266.0412479589394) rotate(497.9885247533374)"
+       id="g58">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 67.6346505147234 0.5 L 67.6346505147234 -0.5 L 25 -0.5 Z M 93.1932442647234 0.5 L 135.8278947794468 0.5 L 135.8278947794468 3.5 L 142.8278947794468 0 L 135.8278947794468 -3.5 L 135.8278947794468 -0.5 L 93.1932442647234 -0.5 Z"
+         id="path54" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="80.4139473897234"
+         y="3"
+         transform="rotate(180 80.4139473897234 0)"
+         font-family="sans-serif"
+         id="text56">VODI</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-92.79433859712935 -330.8392851570911) rotate(498.87448446202615)"
+       id="g64">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 38.727037848828004 0.5 L 38.727037848828004 -0.5 L 25 -0.5 Z M 115.855944098828 0.5 L 129.582981947656 0.5 L 129.582981947656 3.5 L 136.582981947656 0 L 129.582981947656 -3.5 L 129.582981947656 -0.5 L 115.855944098828 -0.5 Z"
+         id="path60" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="77.291490973828"
+         y="3"
+         transform="rotate(180 77.291490973828 0)"
+         font-family="sans-serif"
+         id="text62">ZDR_ZAPOSLENIK</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-214.51004328053307 -224.56441847395206) rotate(496.04638605788693)"
+       id="g70">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 126.31497991780302 0.5 L 126.31497991780302 -0.5 L 25 -0.5 Z M 201.21341741780302 0.5 L 302.52839733560603 0.5 L 302.52839733560603 3.5 L 309.52839733560603 0 L 302.52839733560603 -3.5 L 302.52839733560603 -0.5 L 201.21341741780302 -0.5 Z"
+         id="path66" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="163.76419866780302"
+         y="3"
+         transform="rotate(180 163.76419866780302 0)"
+         font-family="sans-serif"
+         id="text68">ZDR_SMJESTENA</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(203.75293140531733)"
+       id="g76">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 6.953439040707552 24.018736134675446 L 17.306200844808384 62.65576918623819 A 17.916697508022974 17.916697508022974 0 1 1 -17.306200844808384 62.65576918623819 L -8.765172356425198 30.780216918698923 L -4.901469051268926 31.815493099109005 L -6.4704761275630185 24.148145657226706 L -11.662949835292403 30.00375978339136 L -7.79924653013613 31.039035963801442 L -16.340275018519314 62.91458823134071 A 16.916697508022974 16.916697508022974 0 1 0 16.340275018519314 62.91458823134071 L 5.987513214418485 24.277555179777966 Z"
+         id="path72" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="0"
+         y="94.20964923467838"
+         transform="rotate(180 0 91.20964923467838)"
+         font-family="sans-serif"
+         id="text74">OBITELJ</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(53.06364842604278 97.84416161681409) rotate(539.9586619987133)"
+       id="g82">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 99.74293178392662 0.5 L 99.74293178392662 -0.5 L 25 -0.5 Z M 164.86793178392662 0.5 L 239.61086356785324 0.5 L 239.61086356785324 3.5 L 246.61086356785324 0 L 239.61086356785324 -3.5 L 239.61086356785324 -0.5 L 164.86793178392662 -0.5 Z"
+         id="path78" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="132.30543178392662"
+         y="3"
+         transform="rotate(180 132.30543178392662 0)"
+         font-family="sans-serif"
+         id="text80">PODRUCJE_PP</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-600.9670682576456 -78.0187775607254) rotate(449.69973453177954)"
+       id="g88">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 61.30653704698014 0.5 L 61.30653704698014 -0.5 L 25 -0.5 Z M 120.66200579698014 0.5 L 156.96854284396028 0.5 L 156.96854284396028 3.5 L 163.96854284396028 0 L 156.96854284396028 -3.5 L 156.96854284396028 -0.5 L 120.66200579698014 -0.5 Z"
+         id="path84" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="90.98427142198014"
+         y="3"
+         font-family="sans-serif"
+         id="text86">NALAZI_SE_U</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(53.06364842604278 97.84416161681409) rotate(504.5463298947251)"
+       id="g94">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 38.242873570300915 0.5 L 38.242873570300915 -0.5 L 25 -0.5 Z M 118.93037357030092 0.5 L 132.17324714060183 0.5 L 132.17324714060183 3.5 L 139.17324714060183 0 L 132.17324714060183 -3.5 L 132.17324714060183 -0.5 L 118.93037357030092 -0.5 Z"
+         id="path90" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="78.58662357030092"
+         y="3"
+         transform="rotate(180 78.58662357030092 0)"
+         font-family="sans-serif"
+         id="text92">POL_EVIDENTIRAO</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-218.54714444972302 98.04012455420661) rotate(200.89893788242563)"
+       id="g100">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 88.6684386857955 0.5 L 88.6684386857955 -0.5 L 25 -0.5 Z M 157.79734493579548 0.5 L 221.465783621591 0.5 L 221.465783621591 3.5 L 228.465783621591 0 L 221.465783621591 -3.5 L 221.465783621591 -0.5 L 157.79734493579548 -0.5 Z"
+         id="path96" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="123.2328918107955"
+         y="3"
+         transform="rotate(180 123.2328918107955 0)"
+         font-family="sans-serif"
+         id="text98">PP_SMJESTENA</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-92.6208659480977 -173.7892081932212) rotate(499.9337676060735)"
+       id="g106">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 39.712953006401435 0.5 L 39.712953006401435 -0.5 L 25 -0.5 Z M 119.06451550640143 0.5 L 133.77746851280287 0.5 L 133.77746851280287 3.5 L 140.77746851280287 0 L 133.77746851280287 -3.5 L 133.77746851280287 -0.5 L 119.06451550640143 -0.5 Z"
+         id="path102" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="79.38873425640143"
+         y="3"
+         transform="rotate(180 79.38873425640143 0)"
+         font-family="sans-serif"
+         id="text104">UCIT_ZAPOSLENIK</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(47.819759576069806 -64.44071793715383) rotate(180.56628525210897)"
+       id="g112">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 97.15775656461179 0.5 L 97.15775656461179 -0.5 L 25 -0.5 Z M 163.1655690646118 0.5 L 235.32332562922358 0.5 L 235.32332562922358 3.5 L 242.32332562922358 0 L 235.32332562922358 -3.5 L 235.32332562922358 -0.5 L 163.1655690646118 -0.5 Z"
+         id="path108" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="130.1616628146118"
+         y="3"
+         transform="rotate(180 130.1616628146118 0)"
+         font-family="sans-serif"
+         id="text110">NA_PODRUCJU</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-455.3376897279762 7.623637486113267) rotate(210.45913584529495)"
+       id="g118">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 44.03909288004732 0.5 L 44.03909288004732 -0.5 L 25 -0.5 Z M 117.90628038004732 0.5 L 136.94537326009464 0.5 L 136.94537326009464 3.5 L 143.94537326009464 0 L 136.94537326009464 -3.5 L 136.94537326009464 -0.5 L 117.90628038004732 -0.5 Z"
+         id="path114" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="80.97268663004732"
+         y="3"
+         transform="rotate(180 80.97268663004732 0)"
+         font-family="sans-serif"
+         id="text116">PRIPADA_GRADU</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-80.66938554437861 193.07194486180643) rotate(214.5764338715813)"
+       id="g124">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 49.7355308370839 0.5 L 49.7355308370839 -0.5 L 25 -0.5 Z M 110.7199058370839 0.5 L 135.4554366741678 0.5 L 135.4554366741678 3.5 L 142.4554366741678 0 L 135.4554366741678 -3.5 L 135.4554366741678 -0.5 L 110.7199058370839 -0.5 Z"
+         id="path120" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="80.2277183370839"
+         y="3"
+         transform="rotate(180 80.2277183370839 0)"
+         font-family="sans-serif"
+         id="text122">POL_PRIPADA</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-216.94484682077598 261.4250407051255) rotate(226.79310757466902)"
+       id="g130">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 135.81704062393143 0.5 L 135.81704062393143 -0.5 L 25 -0.5 Z M 205.38735312393143 0.5 L 316.20439374786287 0.5 L 316.20439374786287 3.5 L 323.20439374786287 0 L 316.20439374786287 -3.5 L 316.20439374786287 -0.5 L 205.38735312393143 -0.5 Z"
+         id="path126" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="170.60219687393143"
+         y="3"
+         transform="rotate(180 170.60219687393143 0)"
+         font-family="sans-serif"
+         id="text128">CSS_SMJESTEN</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(267.66383387477174)"
+       id="g136">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 6.953439040707552 24.018736134675446 L 17.306200844808384 62.65576918623819 A 17.916697508022974 17.916697508022974 0 1 1 -17.306200844808384 62.65576918623819 L -8.765172356425198 30.780216918698923 L -4.901469051268926 31.815493099109005 L -6.4704761275630185 24.148145657226706 L -11.662949835292403 30.00375978339136 L -7.79924653013613 31.039035963801442 L -16.340275018519314 62.91458823134071 A 16.916697508022974 16.916697508022974 0 1 0 16.340275018519314 62.91458823134071 L 5.987513214418485 24.277555179777966 Z"
+         id="path132" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="0"
+         y="94.20964923467838"
+         transform="rotate(180 0 91.20964923467838)"
+         font-family="sans-serif"
+         id="text134">POZNAJE</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(331.57473634422615)"
+       id="g142">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 6.953439040707552 24.018736134675446 L 17.306200844808384 62.65576918623819 A 17.916697508022974 17.916697508022974 0 1 1 -17.306200844808384 62.65576918623819 L -8.765172356425198 30.780216918698923 L -4.901469051268926 31.815493099109005 L -6.4704761275630185 24.148145657226706 L -11.662949835292403 30.00375978339136 L -7.79924653013613 31.039035963801442 L -16.340275018519314 62.91458823134071 A 16.916697508022974 16.916697508022974 0 1 0 16.340275018519314 62.91458823134071 L 5.987513214418485 24.277555179777966 Z"
+         id="path138" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="0"
+         y="94.20964923467838"
+         font-family="sans-serif"
+         id="text140">ZIVI_S</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(229.8420289358629)"
+       id="g148">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 114.3699333977431 0.5 L 114.3699333977431 -0.5 L 25 -0.5 Z M 187.0535271477431 0.5 L 276.4234605454862 0.5 L 276.4234605454862 3.5 L 283.4234605454862 0 L 276.4234605454862 -3.5 L 276.4234605454862 -0.5 L 187.0535271477431 -0.5 Z"
+         id="path144" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="150.7117302727431"
+         y="3"
+         transform="rotate(180 150.7117302727431 0)"
+         font-family="sans-serif"
+         id="text146">IMA_ZDR_PROBL</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(-455.3376897279762 7.623637486113267) rotate(504.4597226020071)"
+       id="g154">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 45.40591524642848 0.5 L 45.40591524642848 -0.5 L 25 -0.5 Z M 125.34732149642848 0.5 L 145.75323674285696 0.5 L 145.75323674285696 3.5 L 152.75323674285696 0 L 145.75323674285696 -3.5 L 145.75323674285696 -0.5 L 125.34732149642848 -0.5 Z"
+         id="path150" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="85.37661837142848"
+         y="3"
+         transform="rotate(180 85.37661837142848 0)"
+         font-family="sans-serif"
+         id="text152">PRIPADA_ZUPANIJI</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(235.10420622558186 8.662654785363287) rotate(513.89980765798)"
+       id="g160">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 77.96531444695032 0.5 L 77.96531444695032 -0.5 L 25 -0.5 Z M 117.74656444695032 0.5 L 170.71187889390063 0.5 L 170.71187889390063 3.5 L 177.71187889390063 0 L 170.71187889390063 -3.5 L 170.71187889390063 -0.5 L 117.74656444695032 -0.5 Z"
+         id="path156" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="97.85593944695032"
+         y="3"
+         transform="rotate(180 97.85593944695032 0)"
+         font-family="sans-serif"
+         id="text158">POCINIO</text>
+    </g>
+    <g
+       class="relationship"
+       transform="translate(51.61515727029437 266.0412479589394) rotate(180.98474510565916)"
+       id="g166">
+      <path
+         class="outline"
+         fill="#A5ABB6"
+         stroke="none"
+         d="M 25 0.5 L 110.53616539854801 0.5 L 110.53616539854801 -0.5 L 25 -0.5 Z M 151.063509148548 0.5 L 236.59967454709601 0.5 L 236.59967454709601 3.5 L 243.59967454709601 0 L 236.59967454709601 -3.5 L 236.59967454709601 -0.5 L 151.063509148548 -0.5 Z"
+         id="path162" />
+      <text
+         text-anchor="middle"
+         pointer-events="none"
+         font-size="8px"
+         fill="#000000"
+         x="130.799837273548"
+         y="3"
+         transform="rotate(180 130.799837273548 0)"
+         font-family="sans-serif"
+         id="text164">PRIPADA</text>
+    </g>
+  </g>
+  <g
+     class="layer nodes"
+     id="g280">
+    <g
+       class="node"
+       aria-label="graph-node-17"
+       transform="translate(235.10420622558186,8.662654785363287)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g174">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#F16667"
+         stroke="#eb2728"
+         stroke-width="2px"
+         id="circle170" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text172"> Osoba</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-32"
+       transform="translate(-216.94484682077598,261.4250407051255)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g184">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle176" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="-5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text178"> Centar</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text180"> za</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="15"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text182"> soci…</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-20"
+       transform="translate(-219.4905094993658,-67.08277627982847)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g190">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle186" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text188"> Skola</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-21"
+       transform="translate(-600.9670682576456,-78.0187775607254)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g196">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle192" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text194"> Grad</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-29"
+       transform="translate(51.61515727029437,266.0412479589394)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g204">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle198" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="0"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text200"> Socijalni</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="10"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text202"> problem</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-23"
+       transform="translate(-218.54714444972302,98.04012455420661)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g212">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle206" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="0"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text208"> Policijska</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="10"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text210"> postaja</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-22"
+       transform="translate(-599.9767602671395,110.94717036284517)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g218">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle214" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text216"> Zupanija</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-30"
+       transform="translate(-92.6208659480977,-173.7892081932212)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g224">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle220" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text222"> Ucitelj</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-25"
+       transform="translate(-92.79433859712935,-330.8392851570911)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g230">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle226" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0.30836189"
+         y="-3.3257706"
+         font-size="10px"
+         fill="#ffffff"
+         font-family="sans-serif"
+         id="text228"><tspan
+           sodipodi:role="line"
+           id="tspan4936"
+           x="0.30836189"
+           y="-3.3257706">Zdravstv.</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4938"
+           x="0.30836189"
+           y="9.1742296">djelatnik</tspan></text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-31"
+       transform="translate(-73.08278051072449,378.3650058165815)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g238">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle232" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="0"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text234"> Socijalni</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="10"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text236"> radnik</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-24"
+       transform="translate(36.20276880179049,-227.05592574150708)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g244">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle240" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0.61672378"
+         y="-0.55051374"
+         font-size="10px"
+         fill="#ffffff"
+         font-family="sans-serif"
+         id="text242"><tspan
+           sodipodi:role="line"
+           id="tspan2888"
+           x="0.61672378"
+           y="-0.55051374">Zdravstv.</tspan><tspan
+           sodipodi:role="line"
+           id="tspan2890"
+           x="0.61672378"
+           y="11.949486">problem</tspan></text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-27"
+       transform="translate(53.06364842604278,97.84416161681409)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g252">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle246" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="0"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text248"> Zakonski</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="10"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text250"> problem</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-26"
+       transform="translate(47.819759576069806,-64.44071793715383)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g258">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle254" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="-4.7133989"
+         font-size="10px"
+         fill="#ffffff"
+         font-family="sans-serif"
+         id="text256"><tspan
+           sodipodi:role="line"
+           id="tspan1468"
+           x="0"
+           y="-4.7133989">Neprilag.</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1470"
+           x="0"
+           y="7.7866011">ponasanje</tspan></text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-28"
+       transform="translate(-80.66938554437861,193.07194486180643)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g266">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle260" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="0"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text262"> Policijski</text>
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="10"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text264"> djelatni</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-18"
+       transform="translate(-455.3376897279762,7.623637486113267)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g272">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#604A0E"
+         stroke="#423204"
+         stroke-width="2px"
+         id="circle268" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="5"
+         font-size="10px"
+         fill="#FFFFFF"
+         font-family="sans-serif"
+         id="text270"> Lokacija</text>
+    </g>
+    <g
+       class="node"
+       aria-label="graph-node-19"
+       transform="translate(-214.51004328053307,-224.56441847395206)"
+       style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+       id="g278">
+      <circle
+         class="outline"
+         cx="0"
+         cy="0"
+         r="25"
+         fill="#A5ABB6"
+         stroke="#9AA1AC"
+         stroke-width="2px"
+         id="circle274" />
+      <text
+         class="caption"
+         text-anchor="middle"
+         pointer-events="none"
+         x="0"
+         y="-2.7090468"
+         font-size="10px"
+         fill="#ffffff"
+         font-family="sans-serif"
+         id="text276"><tspan
+           sodipodi:role="line"
+           id="tspan6014"
+           x="0"
+           y="-2.7090468">Zdravstv.</tspan><tspan
+           sodipodi:role="line"
+           id="tspan6016"
+           x="0"
+           y="9.7909527">ustanova</tspan></text>
+    </g>
+  </g>
+</svg>
