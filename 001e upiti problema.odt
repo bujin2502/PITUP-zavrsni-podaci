@@ -1,0 +1,28 @@
+﻿MATCH (o1:Osoba)-[r1:OBITELJ]->(o2:Osoba)
+WHERE (date().year - toInteger(o1.godiste)) < 18 AND o1.nadzor = "false"
+CALL {
+    WITH o2
+    MATCH (o2)-[r2:ZAKONSKI]->(zp)
+    RETURN COUNT(zp) AS a
+}
+CALL {
+    WITH o2
+    MATCH (o2)-[r3:SOCIJALNI]->(sp)
+    RETURN COUNT(sp) AS b
+}
+CALL {
+    WITH o1
+    MATCH (o1)-[r4:NEPRILAGODJENO]->(skp)
+    RETURN COUNT(skp) AS c
+}
+CALL {
+    WITH o1
+    MATCH (o1)-[r5:ZDRAVSTVENI]->(zdp)
+    RETURN COUNT(zdp) AS d
+}
+RETURN o1, SUM(a + b + c + d) AS Bodovi
+ORDER BY Bodovi DESC
+LIMIT 10
+
+
+MATCH (o1:Osoba)-[r1:OBITELJ]->(o2:Osoba) WHERE (date().year - toInteger(o1.godiste)) < 18 AND o1.nadzor = "false" CALL { WITH o2 MATCH (o2)-[r2:ZAKONSKI]->(zp) RETURN COUNT(zp) AS a } CALL { WITH o2 MATCH (o2)-[r3:SOCIJALNI]->(sp) RETURN COUNT(sp) AS b } CALL { WITH o1 MATCH (o1)-[r4:NEPRILAGODJENO]->(skp) RETURN COUNT(skp) AS c } CALL { WITH o1 MATCH (o1)-[r5:ZDRAVSTVENI]->(zdp) RETURN COUNT(zdp) AS d } RETURN o1, SUM(a + b + c + d) AS Bodovi ORDER BY Bodovi DESC LIMIT 10
